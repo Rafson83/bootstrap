@@ -7,24 +7,23 @@
 <h3 align="center">Bootstrap</h3>
 
 <p align="center">
-  Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+  Elegancka, intuicyjna i wydajna platforma front-end do szybkiego i łatwego tworzenia stron internetowych.
+    <br>
+  <a href="https://getbootstrap.com/docs/5.1/"><strong>Przejrzyj dokumentacje Bootstrap»</strong></a>
   <br>
-  <a href="https://getbootstrap.com/docs/5.1/"><strong>Explore Bootstrap docs »</strong></a>
   <br>
-  <br>
-  <a href="https://github.com/twbs/bootstrap/issues/new?assignees=-&labels=bug&template=bug_report.yml">Report bug</a>
+  <a href="https://github.com/twbs/bootstrap/issues/new?assignees=-&labels=bug&template=bug_report.yml">Zgłoś błąd</a>
   ·
-  <a href="https://github.com/twbs/bootstrap/issues/new?assignees=&labels=feature&template=feature_request.yml">Request feature</a>
+  <a href="https://github.com/twbs/bootstrap/issues/new?assignees=&labels=feature&template=feature_request.yml">Zaproponuj funkcje</a>
   ·
-  <a href="https://themes.getbootstrap.com/">Themes</a>
+  <a href="https://themes.getbootstrap.com/">Szablony</a>
   ·
   <a href="https://blog.getbootstrap.com/">Blog</a>
 </p>
 
 
 ## Bootstrap 5
-
-Our default branch is for development of our Bootstrap 5 release. Head to the [`v4-dev` branch](https://github.com/twbs/bootstrap/tree/v4-dev) to view the readme, documentation, and source code for Bootstrap 4.
+Naszą domyślnoą gałęzią jest wydanie Bootstrap 5. Jeśli potrzebujesz starszej wersji znajdzieś ją tutaj [`v4-dev` branch](https://github.com/twbs/bootstrap/tree/v4-dev) to view the readme, documentation, and source code for Bootstrap 4.
 
 
 ## Table of contents
